@@ -58,13 +58,18 @@ secret_key
 ```
 {keyword}=<value>
 {keyword}= <value>
+{keyword} =<value>
 {keyword} = <value>
 '{keyword}'='<value>'
 '{keyword}'= '<value>'
+'{keyword}' ='<value>'
 '{keyword}' = '<value>'
 "{keyword}"="<value>"
+"{keyword}"= "<value>"
+"{keyword}" ="<value>"
 "{keyword}" = "<value>"
 "{keyword}":"<value>"
+"{keyword}": "<value>"
 "{keyword}" :"<value>"
 "{keyword}" : "<value>"
 {keyword}=<value>&
